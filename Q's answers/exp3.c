@@ -19,7 +19,7 @@ main( )
         sayi2 = sayi % 100;  // onlar
         sayi3 = sayi2 % 10;  // birler
         
-        // main hesaplamalar:
+        // main calculations:
         yüzler = sayi/100;
         onlar = sayi2/10;
         birler = sayi3;
