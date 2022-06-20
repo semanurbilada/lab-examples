@@ -1,5 +1,6 @@
 // Lab C - Functions;  (faktöriyel hesabı)
 
+#include <stdio.h>
 int fact(int n)
 {
     int i, result = 1;
@@ -8,7 +9,6 @@ int fact(int n)
     }
     return result;
 }
-#include <stdio.h>
 int main( void )
 {
     int number, result;
