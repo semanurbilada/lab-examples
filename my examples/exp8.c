@@ -1,24 +1,36 @@
-// faktöriyel:
+// Factorial calculation:
+// Tabikide düzeltilmesi gereken bug'lar var ancak taslak haliyle bu.
 
 #include <stdio.h>
-main()
+int main()
 {
-    int ans, sayi, i, sonuc;
-    sonuc=1;
-start:
-    printf("Faktöriyeli Alınacak Sayı>> ");
-    scanf("%d", &sayi);
+    int num, i, result;
+    char ans;
+    result = 1;
     
-    if(sayi>=0)
+start:
+    
+    printf("The number for the calculation:  ");
+    scanf("%d", &num);
+    
+    if(num>=0)
     {
-        for(i=1; i<=sayi; i++)
-            sonuc=sonuc*i;  // ÇOK ÖNEMLİİİİ !!!
+        for(i=1; i<=num; i++)
+            result = result * i;  // ÇOK ÖNEMLİİİİ !!!
         
-        printf("%d Sayının faktoriyeli\n", sonuc);
+        printf("%d is the factorial.\n", result);
         getchar();
-             goto start;
+        
+        printf("Do you want to continue: (Y/N) ");
+        scanf("%c", &ans);
+        
+        if(ans=='Y' || ans=='y') {
+            goto start;
+        }
     }
     else
     {
         printf("Wrond digit... Try again!\n");
-             goto start;
+            goto start;
+    }
+}
