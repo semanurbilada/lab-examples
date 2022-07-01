@@ -1,6 +1,7 @@
 // 100'den geriye 7'şer 7'şer:
+// (Kod bu şekilde çalışmaz ancak aynı örneği örneği pratik olsun diye aynı dosyada birleştirdim.)
 
-// while ile:
+// while
 #include <stdio.h>
 int main(void)
 {
@@ -13,7 +14,7 @@ int main(void)
 
 //********************************************************
 
-// do...while ile:
+// do...while
 #include <stdio.h>
 int main(void)
 {
@@ -26,7 +27,7 @@ int main(void)
 
 //********************************************************
 
-// for loop ile:
+// for loop
 #include <stdio.h>
 int main(void)
 {
