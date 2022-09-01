@@ -11,6 +11,6 @@ These are little examples that our lab assistant teacher wanted to us done for t
 And also, I added little examples that I inspired by my coding quizzes and tests.
 
 
-Now, time for technical part; I usually coded these examples in Xcode which is an app that develop by apple, for some users I hope these examples would be helpful because somethings can be different in Xcode.
+Now, time for technical part; I usually coded these examples in Xcode which is an app that developed by apple, for some users I hope these examples would be helpful because somethings can be different in Xcode.
 
 And also, most of these examples can be converted on C++.
