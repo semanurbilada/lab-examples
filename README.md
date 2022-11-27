@@ -1,10 +1,5 @@
 # lab-examples
 
-
-For the second term of the freshman year at Piri Reis Uni, 
-Lecture : Computer Programming 2 ( C/C++ )
-
-
 These are little examples that our lab assistant teacher wanted to us done for the summary of the last week, in every lab lecture. 
 
 
