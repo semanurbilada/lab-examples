@@ -12,8 +12,6 @@ Now, time for technical part; I usually coded these examples in Xcode which is a
 
 And also, most of these examples can be converted on C++.
 
-<br/>
-
 ## lab-examples-OOP
 
 For the first term of the second grade at Piri Reis Uni, Lecture: Object-Oriented-Programming
