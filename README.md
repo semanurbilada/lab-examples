@@ -1,4 +1,5 @@
 ## Computer Programming 2
+# C - C++
 
 For the second term of the freshman year at Piri Reis Uni, lab examples.
 
@@ -13,9 +14,11 @@ Now, time for technical part; I usually coded these examples in Xcode which is a
 And also, most of these examples can be converted on C++.
 
 ## Object Oriented Programming
+# Java
 
 For the first term of the second grade at Piri Reis Uni, lab examples of OOP.
 
 ## Data Structures
+# Intro to the Algorithms
 
 For the second term of the second grade at Piri Reis Uni, homeworks.
