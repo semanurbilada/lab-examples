@@ -16,7 +16,7 @@
 
 * 2nd grade - 1st term, lab examples of OOP.
 
-## GIU Programming (JavaScript)
+## GUI Programming (JavaScript)
 
 * 2nd grade - 1st term, lab examples.
 
